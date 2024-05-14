@@ -4,7 +4,7 @@ This Python script demonstrates email spam classification using Logistic Regress
 
 ## Code Description
 - **Libraries**: Numpy, Pandas, Scikit-learn
-- **Data**: A CSV file named `[mail_data.csv](https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification)` containing email messages and their categories (spam/ham)
+- **Data**: A CSV file named [mail_data.csv](https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification) containing email messages and their categories (spam/ham)
 - **Preprocessing**: Conversion of text messages into numerical form using TF-IDF vectorization
 - **Model**: Logistic Regression model is trained on the transformed features
 - **Evaluation**: Accuracy scores are calculated for both training and testing data
